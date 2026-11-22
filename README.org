@@ -2,10 +2,10 @@
 
 [[https://github.com/yveszoundi/eglot-java/blob/main/LICENSE][file:http://img.shields.io/badge/license-GNU%20GPLv3-blue.svg]] [[https://melpa.org/#/eglot-java][file:https://melpa.org/packages/eglot-java-badge.svg]] [[https://stable.melpa.org/#/eglot-java][file:https://stable.melpa.org/packages/eglot-java-badge.svg]]
 
-All the bugs reports are welcome and appreciated.
-- *Please note that the best way to contribute is via pull requests*.
-- I may not notice immediately when something is broken, as I don't really program professionally anymore.
-  
+*This project is now archived!*
+- I still use Emacs all the time, but I no longer follow what is going on nowadays
+- I went back to "no code completion" few years ago, so I haven't used eglot for a minute
+
 * Overview
 
 This package provides additional Java programming language support for [[https://github.com/joaotavora/eglot][eglot]].
